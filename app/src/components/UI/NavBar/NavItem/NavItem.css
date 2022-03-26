@@ -1,0 +1,9 @@
+li {
+  padding: 0 1rem;
+  transition: 0.3s ease;
+}
+
+li:hover {
+  color: chocolate;
+  cursor: pointer;
+}
